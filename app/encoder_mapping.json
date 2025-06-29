@@ -1,0 +1,25 @@
+{
+    "cap-shape": {
+        "bentuk lonceng": 0,
+        "kerucut": 1,
+        "cekung": 2,
+        "datar": 3,
+        "berhimpit": 4,
+        "berbentuk bulat": 5
+    },
+    "bruises": {
+        "tidak memar": 0,
+        "memar": 1
+    },
+    "odor": {
+        "bau almond": 0,
+        "amis": 1,
+        "anise": 2,
+        "bau apek": 3,
+        "beraroma": 4,
+        "tidak berbau": 5,
+        "pedas": 6,
+        "busuk": 7,
+        "manis": 8
+    }
+}
